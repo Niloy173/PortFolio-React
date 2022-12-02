@@ -1,5 +1,5 @@
 import React from 'react'
-import MyImage from '../assets/headerImage.png'
+import MyImage from '../assets/transparent.png'
 import './header.css'
 
 // component
@@ -10,7 +10,7 @@ const Header = () => {
   return (
     
     <header>
-      <div className="container">
+     
 
         <div className="container header_container">
         
@@ -22,16 +22,14 @@ const Header = () => {
           <HeaderSocial/>
 
           <div className="personalImage">
-          
             <img src={MyImage} alt="personalImage" />
-
-            <a href="#contact" className='scroll_down'>Scroll Down</a>
-
           </div>
+
+          <a href="#contact" className='scroll_down'>Scroll Down</a>
          
         </div>
         
-      </div>
+    
     </header>
   )
 }
