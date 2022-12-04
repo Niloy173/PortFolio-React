@@ -7,9 +7,9 @@ const HeaderSocial = () => {
     
     <div className="header_socials">
     
-      <a title='LinkeDin' href="https://www.google.com" rel='noreferrer'  target={"_blank"}>{<BsLinkedin />}</a>
-      <a title='GitHub' href="https://www.google.com"  rel='noreferrer' target={"_blank"}>{<FaGithub />}</a>
-      <a title='Discord' href="https://www.google.com"  rel='noreferrer' target={"_blank"}>{<BsDiscord />}</a>
+      <a title='LinkeDin' href="https://www.linkedin.com/in/niloy-saha-594558201/" rel='noreferrer'  target={"_blank"}>{<BsLinkedin />}</a>
+      <a title='GitHub' href="https://github.com/Niloy173"  rel='noreferrer' target={"_blank"}>{<FaGithub />}</a>
+      <a title='Discord' href="https://discord.com/channels/@me"  rel='noreferrer' target={"_blank"}>{<BsDiscord />}</a>
 
     </div>
   )
