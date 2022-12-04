@@ -66,8 +66,8 @@ const about = () => {
 
       <p>
       
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam eaque ad molestiae magni recusandae mollitia id at corporis tempore minima, inventore consequatur, 
-      expedita harum sequi sed sit qui incidunt cumque?
+      I am Niloy Saha.I am a person who believes in hard work and is great at time management. Always eager to learn new skills,gather experience, and try to use a creative approach to handle multiple tasks on a daily basis. 
+      I have experience working as part of a team and individually.
       
       </p>
 
