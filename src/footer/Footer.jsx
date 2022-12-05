@@ -26,7 +26,7 @@ const Footer = () => {
 
       <div className="social_links">
 
-        <a target={"_blank"} rel="noreferrer" href='https://www.facebook.com/profile.php?id=100007341856783'><FaFacebookF/></a>
+        <a target={"_blank"} rel="noreferrer" href='https://www.facebook.com/niloy1073/'><FaFacebookF/></a>
         <a target={"_blank"} rel="noreferrer" href='https://twitter.com/Niloy1073'><FiTwitter/></a>
         <a target={"_blank"} rel="noreferrer" href='https://telegram.me/niloysaha173'><TbBrandTelegram/></a>
       
