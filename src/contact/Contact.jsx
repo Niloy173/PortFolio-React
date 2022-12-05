@@ -70,7 +70,7 @@ const Contact = () => {
           <RiMessengerLine className='contact_option_icon' />
           <h4>Messenger</h4>
           <h5>Niloy Saha</h5>
-          <a target={"_blank"} rel="noreferrer" href='https://m.me/profile.php?id=100007341856783'>Send a message</a>
+          <a target={"_blank"} rel="noreferrer" href='https://m.me/niloy1073/'>Send a message</a>
         
         </article>
 
