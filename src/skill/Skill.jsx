@@ -72,7 +72,7 @@ const Skill = () => {
         <div>
         
         <h4>React</h4>
-        <small>Intermediate</small>
+        <small>Basic</small>
         
         </div>
       
@@ -94,7 +94,7 @@ const Skill = () => {
               <BsPatchCheckFill className='icon'/>
               <div>
               <h4>Node JS</h4>
-              <small>Experienced</small>
+              <small>Intermidate</small>
               </div>
             
             </article>
@@ -105,7 +105,7 @@ const Skill = () => {
             <div>
 
             <h4>Firebase</h4>
-            <small>Intermediate</small>
+            <small>Basic</small>
           
 
             </div>
