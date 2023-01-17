@@ -6,7 +6,8 @@ import project7 from './assets/fifa.jpg'
 import project3 from './assets/fundRaiser.jpg'
 import project4 from './assets/mathBook.jpg'
 import project5 from './assets/mustardOil.jpg'
-import project6 from './assets/sortingVisualization.jpg'
+// import project6 from './assets/sortingVisualization.jpg'
+import project6 from './assets/LandingPage.jpg'
 
 
 const imageArray = [
@@ -51,13 +52,22 @@ const imageArray = [
     gitLink: "https://github.com/Niloy173/Muatard-Oil",
     liveLink: "https://niloy173.github.io/Muatard-Oil/"
   },
-  {
+  /*{
     id:6,
     title: "SORTING VISUALIZATION",
     image: project6,
     description : "Sort the pixel to get the Original Picture from the Unsorted Pixels",
     gitLink: "https://github.com/Niloy173/Sorting-Visualization",
     liveLink: "https://www.youtube.com/watch?v=bA_P4yi-w-c&ab_channel=NiloySaha"
+  },*/
+
+  {
+    id:6,
+    title: "FASHION DESIGNER PORTFOLIO",
+    image: project6,
+    description : "A landing page for a fashion designer to see the beauty from inside",
+    gitLink: "https://github.com/Niloy173/Fashion-Designer-Portfolio",
+    liveLink: "https://niloy173.github.io/Fashion-Designer-Portfolio/"
   },
 
   {

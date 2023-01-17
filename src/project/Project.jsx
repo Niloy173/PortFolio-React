@@ -36,7 +36,7 @@ const Project = () => {
                 <div className="project_item_cta">
                 
                 <a href={project.gitLink} rel='noreferrer' target={"_blank"} className="btn" >GitHub</a>
-                <a href={project.liveLink} rel='noreferrer' target={"_blank"} className="btn btn-primary" >{project.id === 6? "Demostration" :"Live Demo"}</a>
+                <a href={project.liveLink} rel='noreferrer' target={"_blank"} className="btn btn-primary">Live Demo</a>
                 
                 </div>
             
