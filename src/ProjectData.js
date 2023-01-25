@@ -5,7 +5,8 @@ import project2 from './assets/chatApp.jpg'
 import project7 from './assets/fifa.jpg'
 import project3 from './assets/fundRaiser.jpg'
 import project4 from './assets/mathBook.jpg'
-import project5 from './assets/mustardOil.jpg'
+import project5 from './assets/photography.jpg'
+// import project5 from './assets/mustardOil.jpg'
 // import project6 from './assets/sortingVisualization.jpg'
 import project6 from './assets/LandingPage.jpg'
 
@@ -46,12 +47,21 @@ const imageArray = [
 
   {
     id:5,
-    title: "MUSTARD OIL",
+    title: "PHOTOGRAPHY ALBUM",
     image: project5,
-    description : "Design template for single product e-commerce platform for buy & sell things",
-    gitLink: "https://github.com/Niloy173/Muatard-Oil",
-    liveLink: "https://niloy173.github.io/Muatard-Oil/"
+    description : "A platform for sharing and showcasing beautiful pictures. Upload, share and discover stunning photos in one place",
+    gitLink: "https://github.com/Niloy173/Photography-album",
+    liveLink: "https://photography-album.netlify.app/"
   },
+
+  // {
+  //   id:5,
+  //   title: "MUSTARD OIL",
+  //   image: project5,
+  //   description : "Design template for single product e-commerce platform for buy & sell things",
+  //   gitLink: "https://github.com/Niloy173/Muatard-Oil",
+  //   liveLink: "https://niloy173.github.io/Muatard-Oil/"
+  // },
   /*{
     id:6,
     title: "SORTING VISUALIZATION",
