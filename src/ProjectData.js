@@ -30,7 +30,7 @@ const imageArray = [
   },
   {
     id: 3,
-    title: "Easy Fund",
+    title: "EASY FUND",
     image: project3,
     description : "A crowdfunding application or platform of hope, want, desire and anticipate where help each other's dream to be successful by sharing indiviual story, business or creation",
     gitLink: "https://github.com/Niloy173/EasyFund",
@@ -47,12 +47,21 @@ const imageArray = [
 
   {
     id:5,
-    title: "PHOTOGRAPHY ALBUM",
+    title: "MEMORIES",
     image: project5,
-    description : "A platform for sharing and showcasing beautiful pictures. Upload, share and discover stunning photos in one place",
-    gitLink: "https://github.com/Niloy173/Photography-album",
-    liveLink: "https://photography-album.netlify.app/"
+    description : "A platform for sharing and showcasing beautiful memories. Upload, share and discover stunning memories in one place",
+    gitLink: "https://github.com/Niloy173/Memories",
+    liveLink: "https://memories-zft3.onrender.com/"
   },
+
+  // {
+  //   id:5,
+  //   title: "PHOTOGRAPHY ALBUM",
+  //   image: project5,
+  //   description : "A platform for sharing and showcasing beautiful pictures. Upload, share and discover stunning photos in one place",
+  //   gitLink: "https://github.com/Niloy173/Photography-album",
+  //   liveLink: "https://photography-album.netlify.app/"
+  // },
 
   // {
   //   id:5,
